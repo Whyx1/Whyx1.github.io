@@ -1,2 +1,22 @@
 # whxyyu
 read
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artikel Opini: Internet di Pelosok Desa</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Pemanfaatan Internet di Pelosok Desa</h1>
+    </header>
+    <main>
+        <article class="article-content">
+            <p>{{ content|safe }}</p>
+        </article>
+    </main>
+</body>
+</html>
+
