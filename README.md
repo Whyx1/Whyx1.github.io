@@ -1,6 +1,4 @@
-# whxyyu
-read
-        <h1>Pemanfaatan Internet di Pelosok Desa</h1>
+#        Pemanfaatan Internet di Pelosok Desa
 
 Memanfaatkan Internet di Pelosok Desa: Peluang, Tantangan, dan Masa Depan yang Menjanjikan
 Di era digital ini, internet telah menjadi jembatan yang menghubungkan dunia dengan segala potensi dan peluangnya. Namun, banyak desa di pelosok negeri masih menghadapi tantangan dalam mengakses teknologi ini. Ketika konektivitas menjadi sebuah kebutuhan, bagaimana kita dapat memanfaatkan internet di pelosok desa untuk membawa perubahan nyata? Berikut adalah beberapa cara pandang dan opini tentang pemanfaatan internet yang berpotensi memberdayakan masyarakat desa tertinggal
